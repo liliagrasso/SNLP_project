@@ -1,0 +1,15 @@
+Die Datebank besteht aus 6 Tabellen:
+
+•	debates: enthält Informationen zur Debatte
+•	arguments: enthält die Argumente der Debatten
+•	users: enthält die Profil-Informationen
+•	big_issues: enthält die "big issue" Vektoren der einzelnen User
+•	comments: noch leer, sollte eigentlich die Kommentare zu den Debatten enthalten
+•	votes: noch leer, sollte eigentlich die Votings zu den Debatten enthalten
+
+In der "debates" und "users" Tabelle gibt es jeweils eine Spalte, die leider nicht gescraped wurde.
+Ich werde in denke ich den Crawler noch ein paar mal laufen lassen und die fehlenden Spalten und Tabellen ergänzen und versuchen, noch zusätzliche Benutzer zu finden.
+Im Idealfall entsteht dann ein Datensatz, der vergleichbar mit dem von Durmus und Cardie ist, nur eben noch die Beliefs usw. enthält.
+
+Viele Grüße,
+Robin
